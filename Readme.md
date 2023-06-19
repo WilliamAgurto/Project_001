@@ -58,11 +58,11 @@ Main file: [etl_principal.ipynb](https://github.com/WilliamAgurto/Project_001/bl
 - Histograms were created on Matplotlib and Seaborn to obtain a general overview of the data distribution.<br><br>
 
 **3. Recommendation System Stage ➡️**
-Main file: [RecommendationSystem.ipynb](https://github.com/WilliamAgurto/PI_01/blob/main/RecomendationSystem.ipynb)
+Main file: [RecommendationSystem.ipynb](RecomendationSystem.ipynb)
 -  TfidfVectorizer library was used in order to achieve project requests and this was used on FastApi.<br><br>
 
 **4. API Development Stage ➡️**
-Main file: [main.py](https://github.com/WilliamAgurto/PI_01/blob/main/FirstApi/main.py)
+Main file: [main.py](main.py)
 - The process of making the information available through the FastAPI framework was carried out.
 - The Render cloud was used to deploy the project.
 [Access to the documentation on render.com](http://127.0.0.1:8000/docs#/default/return__return__movie__get) where you can access all the developed queries.
