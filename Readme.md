@@ -30,7 +30,7 @@ a API deployment using Render + FastApi. [Here](https://api-ml-98n4.onrender.com
 
 ------------
 **1. ETL Process Stage ➡️**
-Main file: [etl_principal.ipynb](https://github.com/WilliamAgurto/PI_01/blob/main/ETL.ipynb)
+Main file: [etl_principal.ipynb](https://github.com/WilliamAgurto/Project_001/blob/main/ETL.ipynb)
 - The ETL (Extraction, Transformation, and Load) process was carried out.
 - The necessary dataframes for the process were prepared.
 - The required MVP (Minimum Viable Product) tasks were performed by:<br>
@@ -51,7 +51,7 @@ Main file: [etl_principal.ipynb](https://github.com/WilliamAgurto/PI_01/blob/mai
         
         vi.Remove columns that will not be used: video, imdb_id, adult, original_title, vote_count, poster_path, and homepage.<br>
 
-**2. Exploratory Data Analysis Stage ➡️** Main file: [eda_principal.ipynb](https://github.com/WilliamAgurto/PI_01/blob/main/EDA.ipynb)
+**2. Exploratory Data Analysis Stage ➡️** Main file: [eda_principal.ipynb](EDA.ipynb)
 
 - The required MVP tasks were performed:
 - The dataframe (movie_dataset) were analyzed in terms of their structure, shape, information, null values, duplicate values, etc.
@@ -96,7 +96,7 @@ Main file: [main.py](https://github.com/WilliamAgurto/PI_01/blob/main/FirstApi/m
             'films':name_film, 'year':date_film, 'film_retorn':return_film, 
             'budget_film':budget_film, 'revenue_film':revenue_film}<br><br>
 
-**Data Source  ➡️** [Data](https://github.com/WilliamAgurto/PI_01/tree/main/datasets)
+**Data Source  ➡️** [Data](datasets)
 ------------
 
 Datasets: The folder contains two files.<br><br>
